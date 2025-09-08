@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+../.venv/
+env/
+venv/
+
+# OS-specific
+.DS_Store
+
+# PDF uploads
+pdfs/
+
+# IDE/editor files
+.vscode/
+.idea/
