@@ -18,3 +18,10 @@ ENV/
 
 # Logs
 *.log
+
+
+# PDF uploads (don't track PDFs)
+Langchain_Ollama/pdfs/
+
+# Chat history / outputs
+Langchain_Ollama/chat_history.csv
